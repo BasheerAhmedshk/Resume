@@ -34,9 +34,9 @@ A deep learning system predicting diseases with 88% accuracy, improving early de
 🔨 *More projects will be uploaded soon!*  
 
 ## 📫 Connect With Me  
-- LinkedIn: [Your Profile](#)  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/basheerahmedshaik/)  
 - GitHub: [BasheerAhmedshk](https://github.com/BasheerAhmedshk)  
-- Email: [Your Email](mailto:your.email@example.com)  
+- Email: [Your Email](mailto:basheerahmedshk@gmail.com)  
 
 Let's collaborate and innovate! 🚀  
 
