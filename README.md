@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Shaik Basheer Ahmed]  
 🚀 Data Scientist | AI Enthusiast | ML Engineer  
 
 Welcome to my GitHub! I'm passionate about transforming data into meaningful insights and building AI-driven solutions. With experience in machine learning, deep learning, and data engineering, I specialize in predictive modeling, NLP, and real-time data processing.  
@@ -34,9 +34,9 @@ A deep learning system predicting diseases with 88% accuracy, improving early de
 🔨 *More projects will be uploaded soon!*  
 
 ## 📫 Connect With Me  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/basheerahmedshaik/)  
+- LinkedIn: [Shaik Basheer Ahmed](https://www.linkedin.com/in/basheerahmedshaik/)  
 - GitHub: [BasheerAhmedshk](https://github.com/BasheerAhmedshk)  
-- Email: [Your Email](mailto:basheerahmedshk@gmail.com)  
+- Email: [Gmail](mailto:basheerahmedshk@gmail.com)  
 
 Let's collaborate and innovate! 🚀  
 
